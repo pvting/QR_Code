@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\OBJS\QR_Code\app\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="E:\OBJS\QR_Code\app\build\intermediates\pre-dexed\debug\core-b90ab5785407eb2b1801c1fa031ac48cca7669c3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\OBJS\QR_Code\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-91f5c31930175b7860fe0f87febc4f6b571bd292.jar" />
+    </item>
+
+</items>
